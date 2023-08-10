@@ -9,6 +9,8 @@
   💬 Ask me about music! I play piano, and I produce beats in my spare time. I am also an avid playlist curator for all genres.
   
   📫 Best ways to reach me: [LinkedIn](https://www.linkedin.com/in/ilan-farabi-70008921a/), [Email](mailto:ifarabi@umich.edu)
+
+  📋 Check out my [Resume](Ilan_Farabi_Resume.pdf)
   
   ⚡ Fun Fact: I play Water Polo at U of M, and this will be my 7th year playing competitively.
 <!--
