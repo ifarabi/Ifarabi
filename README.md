@@ -10,7 +10,7 @@
   
   📫 Best ways to reach me: [LinkedIn](https://www.linkedin.com/in/ilan-farabi-70008921a/), Email: ifarabi@umich.edu
 
-  📋 Check out my [Resume](Ilan_Farabi_Resume.pdf)
+  📋 Check out my [Resume](Farabi,Ilan_Resume.pdf)
   
   ⚡ Fun Fact: I play Water Polo at U of M, and this will be my 7th year playing competitively.
 <!--
