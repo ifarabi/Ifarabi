@@ -4,7 +4,7 @@
 ## About Me
   🌱 I’m currently learning C#, and I am continuing to strengthen my C++ and Python skills.
   
-  🔭 I’m currently working on my degree, personal projects, Leetcode challenges, and pursuing a Quantitative Finance career.
+  🔭 I’m currently working on personal projects, Leetcode challenges, and pursuing a Quantitative Finance career.
   
   💬 Ask me about music! I play piano, and I produce beats in my spare time. I am also an avid playlist curator for all genres.
   
