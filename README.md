@@ -1,5 +1,5 @@
 # Hello, I'm Ilan 👋
-  I am a rising senior studying Economics and Computer Science at the University of Michigan. This summer I am interning in software development at United Wholesale Mortgage in Pontiac, MI!
+  I am a recent grad from The University of Michigan with a background in Economics and Computer Science. Last summer, I had the opportunity to intern in software development at United Wholesale Mortgage in Pontiac, Michigan!
 
 ## About Me
   🌱 I’m currently learning C#, and I am continuing to strengthen my C++ and Python skills.
